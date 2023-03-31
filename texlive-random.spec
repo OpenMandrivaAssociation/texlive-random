@@ -1,6 +1,6 @@
 Name:		texlive-random
 Version:	54723
-Release:	1
+Release:	2
 Summary:	Generating "random" numbers in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/random
