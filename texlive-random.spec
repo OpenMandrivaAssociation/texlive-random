@@ -3,7 +3,7 @@ Version:	54723
 Release:	2
 Summary:	Generating "random" numbers in TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/random
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/random
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/random.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/random.doc.r%{version}.tar.xz
